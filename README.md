@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **react & typescript**
 
-- 👯 I’m looking to collaborate on [material-ui](https://github.com/mui/material-ui)
-
 - 🤝 I’m looking for help with **hyper-log**
 
 - 💬 Ask me about **react, vue and UI design**
